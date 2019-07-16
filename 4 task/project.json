@@ -1,0 +1,14 @@
+{
+  "name": "4 task",
+  "description": "Blank Project",
+  "main": "Main.xaml",
+  "dependencies": {},
+  "excludedData": [
+    "Private:*",
+    "*password*"
+  ],
+  "toolVersion": "18.2",
+  "projectVersion": "1.0.6733.19299",
+  "packOptions": {},
+  "runtimeOptions": {}
+}
